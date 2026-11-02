@@ -1,0 +1,21 @@
+{
+    "dataset": "FX Exchange Rates",
+    "validation_timestamp_utc": "2026-10-25T06:04:38.059916+00:00",
+    "total_records": 312,
+    "currency_pairs": [
+        "USD/INR",
+        "EUR/INR",
+        "GBP/INR"
+    ],
+    "schema_validation": "PASSED",
+    "missing_value_validation": "PASSED",
+    "duplicate_validation": "PASSED",
+    "exchange_rate_value_validation": "PASSED",
+    "currency_source_validation": "PASSED",
+    "date_coverage_validation": "PASSED",
+    "statistical_outlier_screening": "COMPLETED",
+    "flagged_outliers": 6,
+    "outlier_review_status": "PENDING",
+    "records_removed": 0,
+    "final_record_count": 312
+}

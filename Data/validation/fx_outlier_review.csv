@@ -1,0 +1,7 @@
+observation_date,base_currency,quote_currency,exchange_rate,source,is_outlier
+2026-10-13,EUR,INR,106.6,Frankfurter,True
+2026-06-18,GBP,INR,124.8,Frankfurter,True
+2026-06-19,GBP,INR,124.83,Frankfurter,True
+2026-06-24,GBP,INR,124.6,Frankfurter,True
+2026-06-25,GBP,INR,124.22,Frankfurter,True
+2026-06-26,GBP,INR,124.78,Frankfurter,True

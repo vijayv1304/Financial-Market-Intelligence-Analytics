@@ -1,0 +1,26 @@
+{
+    "dataset": "Indian Banking Stocks",
+    "source": "Alpha Vantage",
+    "validation_timestamp_utc": "2026-10-25T06:31:38.252038+00:00",
+    "analysis_start_date": "2026-05-21",
+    "analysis_end_date": "2026-10-13",
+    "original_records": 300,
+    "out_of_period_records": 3,
+    "processed_records": 297,
+    "records_by_stock": {
+        "HDFCBANK.BSE": 99,
+        "ICICIBANK.BSE": 99,
+        "SBIN.BSE": 99
+    },
+    "schema_validation": "PASSED",
+    "missing_value_validation": "PASSED",
+    "duplicate_validation": "PASSED",
+    "ohlc_volume_validation": "PASSED",
+    "symbol_source_validation": "PASSED",
+    "date_alignment_validation": "PASSED_AFTER_FILTERING",
+    "price_outliers": 0,
+    "volume_outliers": 21,
+    "unique_flagged_records": 21,
+    "outlier_review_status": "PENDING",
+    "raw_records_deleted": 0
+}

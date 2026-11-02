@@ -1,0 +1,26 @@
+{
+    "dataset": "historical_fx_rates",
+    "source": "Frankfurter API",
+    "api_base_url": "https://api.frankfurter.dev/v1",
+    "currency_pairs": [
+        "USD/INR",
+        "EUR/INR",
+        "GBP/INR"
+    ],
+    "start_date": "2026-05-21",
+    "end_date": "2026-10-13",
+    "retrieved_at_utc": "2026-10-15T07:26:58.670826+00:00",
+    "total_records": 312,
+    "records_by_currency": {
+        "EUR": 104,
+        "GBP": 104,
+        "USD": 104
+    },
+    "columns": [
+        "observation_date",
+        "base_currency",
+        "quote_currency",
+        "exchange_rate",
+        "source"
+    ]
+}

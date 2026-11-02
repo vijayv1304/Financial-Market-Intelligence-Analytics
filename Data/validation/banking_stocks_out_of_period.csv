@@ -1,0 +1,4 @@
+observation_date,stock_symbol,open_price,high_price,low_price,close_price,volume,source
+2026-10-14,HDFCBANK.BSE,712.8,718.5,708.0,710.7,1293693,Alpha Vantage
+2026-10-14,ICICIBANK.BSE,1354.35,1360.8,1339.05,1339.2,534692,Alpha Vantage
+2026-10-14,SBIN.BSE,956.4,956.7,945.5,954.15,355201,Alpha Vantage
